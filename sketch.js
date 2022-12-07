@@ -40,7 +40,7 @@ function preload(){ //cargar img, animaciones y sonidos
   gameOver_img = loadImage("OVER.png")
   sonido_salto= loadSound ("jump.mp3")
   sonido_over= loadSound("die.mp3")
-  sonido_puntos= loadSound("checkPoint.mp3")
+  sonido_puntos= loadSound("checkpoint.mp3")
   fondo= loadImage("bg.jpg")
 }
 
